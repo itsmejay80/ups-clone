@@ -13,7 +13,7 @@ import {
 } from "@apollo/client";
 
 const REACT_APP_STEPZEN_API_KEY =
-  "goyamara::stepzen.net+1000::61b51f8ab0cd25eae2c0fa09da3fa9cdc6502ad826632c2b1ebf738fab9fb93e";
+  "YOUR STEPZEN API KEY";
 
 const client = new ApolloClient({
   headers: {
